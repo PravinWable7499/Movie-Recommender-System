@@ -33,4 +33,4 @@ Utilizes cosine similarity for content-based recommendations
 
 #### Calculate the cosine similarity between all movie vectors.
 
-#### When a user selects a movie, return the top 5/10 most similar movies based on the similarity score.
+#### When a user selects a movie, return the top 5 most similar movies based on the similarity score.
