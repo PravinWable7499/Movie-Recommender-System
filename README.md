@@ -11,9 +11,9 @@ Utilizes cosine similarity for content-based recommendations
 
 #### iii. Keywords and overview text
 
-### Data cleaning and preprocessing from TMDB dataset
+#### Data cleaning and preprocessing from TMDB dataset
 
-### Clean and simple interface for selecting a movie and receiving recommendations
+#### Clean and simple interface for selecting a movie and receiving recommendations
 
 ## 🛠 Technologies Used
 #### Python
